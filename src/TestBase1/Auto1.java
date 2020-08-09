@@ -14,11 +14,6 @@ public class Auto1 {
 		System.out.println("Hello java");
 	}
 
-	private void syso() {
-
-		System.out.println("hello git world");
-
-	}
 
 	public void method4() {
 		System.out.println("Hello java");
@@ -28,6 +23,10 @@ public class Auto1 {
 		System.out.println("Hello java");
 	}
 	public void method6() {
+		System.out.println("Hello java");
+	}
+	
+	public void method7() {
 		System.out.println("Hello java");
 	}
 }
