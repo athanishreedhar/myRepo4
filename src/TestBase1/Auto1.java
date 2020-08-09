@@ -24,4 +24,10 @@ public class Auto1 {
 		System.out.println("Hello java");
 	}
 
+	public void method5() {
+		System.out.println("Hello java");
+	}
+	public void method6() {
+		System.out.println("Hello java");
+	}
 }
