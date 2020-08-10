@@ -16,4 +16,9 @@ public class gitCode1 {
 		
 	}
 	
+	public void m3() {
+		System.out.println("hello git----1");
+		
+	}
+	
 }
